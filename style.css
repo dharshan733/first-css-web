@@ -1,0 +1,108 @@
+.dancing-script {
+    
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 5rem;
+   
+    
+}
+.test-color {
+    background-color: #322103;
+  }
+  .cat {
+    display: inline-flex;
+    
+  }
+ .editing {
+    color: #11999e;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: bold;
+    font: size 5rem;
+    float: left;
+    margin-left: 5px;
+
+ }
+ .skill{
+  display: grid;
+  grid-template-columns:0.5fr 1fr ;
+  grid-template-rows: repeat(1,1fr);
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 0 auto;
+  row-gap: 2rem;
+ }
+ .get{
+  color: #11999e;
+  margin-top: 50px;
+  display: block;
+  margin-bottom: 50px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  
+ }
+ hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+ }
+ .con{
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 70px;
+  
+ }
+ .btn{
+  background-color: #11cdd4;
+  border-radius: 8px;
+  margin-top: 5px;
+  padding: 10px 20px 10px 20px;
+  font-family: "Montserrat", sans-serif;
+  color: #eaf6f6;
+  background-image: linear-gradient(to bottom,#11cdd4, #11999e);
+  font-size: 1.5rem;
+  text-decoration: none;
+  
+ }
+.hero{
+  background-color: #eaf6f6;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.footer
+ {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  
+}
+.top-container{
+  position: relative;
+  background-color: #11cdd4;
+}
+.img-fluid{
+  position: relative;
+  top:100px;
+}
+.lead {
+  position: relative;
+  top: 50px;
+}
+.cloud-1{
+  position: relative;
+  left: 20%;
+}
+.cloud-2{
+  position: relative;
+  right: 40%;
+  top:150px;
+}
+.container-footer{
+  position: relative;
+  padding-bottom: 10px;
+}
+
